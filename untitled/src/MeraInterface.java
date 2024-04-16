@@ -1,5 +1,5 @@
 public interface MeraInterface {
 
-    void play();
-    void stop();
+    String play();
+    String stop();
 }
